@@ -2,7 +2,7 @@ public class BinarySearch {
 
     public static void main(String[] args) {
 
-        int[] num = {2, 6, 7, 1, 0, 9, 8, 10};
+        int[] num = {2, 6, 7, 1, 0, 9, 8, 10,15};
 
         QuickSort.sort(num, 0, num.length - 1);
 
